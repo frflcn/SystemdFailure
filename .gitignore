@@ -1,0 +1,4 @@
+.megaignore
+.venv
+src/systemdfailure/__pycache__
+.qmlls.ini

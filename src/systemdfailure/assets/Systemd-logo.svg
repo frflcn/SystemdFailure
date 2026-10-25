@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22.756001mm"
+   height="12.98866mm"
+   version="1.1"
+   viewBox="0 0 86.006931 49.090998"
+   id="svg11"
+   sodipodi:docname="Systemd-logo.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8"
+     inkscape:cx="68.9375"
+     inkscape:cy="10.9375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1126"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="86.006935"
+       height="49.090996"
+       id="page11"
+       margin="0 114.04722 0 0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <title
+     id="title1">systemd logo</title>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>systemd logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g14"
+     transform="translate(-9.295188,-0.02324349)">
+    <g
+       transform="translate(-60,-1082.52)"
+       id="g11">
+      <g
+         transform="matrix(2.00001,0,0,2.00001,-4358.02,-5676.01)"
+         style="stroke-width:0.499998"
+         id="g10">
+        <path
+           d="m 2213.65,3385.02 v 13 h 5 v -2 h -3 v -9 h 3 v -2 z"
+           style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+           id="path1" />
+        <path
+           d="m 2251.65,3385.02 v 2 h 3 v 9 h -3 v 2 h 5 v -13 z"
+           style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+           id="path2" />
+        <path
+           d="m 2237.65,3391.52 8,-4.5 v 9 z"
+           style="fill:#33d17a"
+           id="path10" />
+        <circle
+           cx="2229.1499"
+           cy="3391.52"
+           r="4.49998"
+           style="display:inline;fill:#33d17a"
+           id="circle10" />
+      </g>
+    </g>
+    <g
+       id="g13">
+      <ellipse
+         style="fill:#800000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path12"
+         cx="53.459637"
+         cy="39.077736"
+         rx="5.1950002"
+         ry="5.1949477" />
+      <path
+         style="fill:#800000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         d="M 43.734212,4.7721032 50.989638,31.84972 h 5.067474 L 63.312538,4.7721032 Z"
+         id="path13" />
+    </g>
+  </g>
+</svg>

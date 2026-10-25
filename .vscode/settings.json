@@ -1,0 +1,6 @@
+{
+    "qt-qml.qmlls.additionalImportPaths": [
+        "${workspaceFolder}/src/systemdfailure/Qml"
+    ],
+    "qt-qml.qmlls.customExePath": "${workspaceFolder}/.venv/bin/pyside6-qmlls"
+}
